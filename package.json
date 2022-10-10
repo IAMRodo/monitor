@@ -1,0 +1,19 @@
+{
+  "name": "simon",
+  "version": "1.0.0",
+  "description": "Sistema de software capaz de monitorear cada cierto tiempo los",
+  "main": "puntos de acceso (antena) de cada cliente y enviar una alerta en caso que se detecte algún",
+  "scripts": {
+    "test": "problema en el enlace.app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IAMRodo/simon.git"
+  },
+  "author": "REDDERINC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IAMRodo/simon/issues"
+  },
+  "homepage": "https://github.com/IAMRodo/simon#readme"
+}
